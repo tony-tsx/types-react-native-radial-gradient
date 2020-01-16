@@ -1,0 +1,25 @@
+{
+  "name": "@types/react-native-radial-gradient",
+  "version": "1.0.6",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tony-tsx/types-react-native-radial-gradient.git"
+  },
+  "author": "Tony",
+  "license": "MIT",
+  "typings": "index.d.ts",
+  "types": "index.d.ts",
+  "private": false,
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.5"
+  },
+  "peerDependencies": {
+    "react-native-radial-gradient": "^1.0.6"
+  },
+  "dependencies": {
+    "@types/react-native": "^0.60.31"
+  }
+}
